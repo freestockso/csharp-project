@@ -1,0 +1,20 @@
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\GFTrader.exe.config
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\GFTrader.exe
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\GFTrader.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\Selenium.WebDriverBackedSelenium.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\Selenium.WebDriverBackedSelenium.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\ThoughtWorks.Selenium.Core.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\ThoughtWorks.Selenium.Core.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\WebDriver.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\WebDriver.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\WebDriver.Support.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Release\WebDriver.Support.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Release\GFTrader.exe
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Release\GFTrader.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Release\GFTrader.csprojResolveAssemblyReference.cache
+E:\stock\gfTrader\gfTrader\bin\Release\GFTrader.exe.config
+E:\stock\gfTrader\gfTrader\obj\Release\GFTrader.exe
+E:\stock\gfTrader\gfTrader\obj\Release\GFTrader.pdb
+E:\stock\gfTrader\gfTrader\bin\Release\GFTrader.exe
+E:\stock\gfTrader\gfTrader\bin\Release\GFTrader.pdb
+E:\stock\gfTrader\gfTrader\bin\Release\WebDriver.xml

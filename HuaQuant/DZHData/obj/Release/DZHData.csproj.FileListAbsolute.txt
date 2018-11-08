@@ -1,0 +1,5 @@
+E:\stock\HuaQuant\DZHData\bin\Release\DZHData.dll
+E:\stock\HuaQuant\DZHData\bin\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHData\obj\Release\DZHData.dll
+E:\stock\HuaQuant\DZHData\obj\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHData\obj\Release\DZHData.csprojResolveAssemblyReference.cache

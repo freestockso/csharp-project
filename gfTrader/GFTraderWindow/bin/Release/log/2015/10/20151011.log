@@ -1,0 +1,23 @@
+时间：2015-10-11 14:48:05,911 级别：INFO  描述：登录成功.
+时间：2015-10-11 14:48:15,807 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 14:48:29,727 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 14:50:27,791 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-10-11 14:50:56,682 级别：INFO  描述：登录成功.
+时间：2015-10-11 14:51:03,585 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 14:51:19,831 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 15:45:19,771 级别：INFO  描述：登录成功.
+时间：2015-10-11 15:45:28,357 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 15:45:38,173 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 15:47:04,556 级别：INFO  描述：登录成功.
+时间：2015-10-11 15:47:12,192 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 15:47:26,127 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 15:48:31,954 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-10-11 15:48:42,517 级别：INFO  描述：登录成功.
+时间：2015-10-11 15:48:53,177 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 15:49:28,604 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 15:52:28,885 级别：INFO  描述：登录成功.
+时间：2015-10-11 15:52:35,535 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 15:53:04,703 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds
+时间：2015-10-11 15:57:20,784 级别：INFO  描述：登录成功.
+时间：2015-10-11 15:57:27,759 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-10-11 15:58:01,064 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--Timed out after 5 seconds

@@ -1,0 +1,51 @@
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHData.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.FIXData.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHData.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Instruments.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Charting.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Series.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.File.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Quant.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SharpZipLib.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHData.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Data.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.FIX.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Providers.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Charting.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Series.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.FIXData.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Quant.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\DZHData.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\ResolveAssemblyReference.cache
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.pdb
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.dll
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.pdb
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHData.dll
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.dll
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.Quant.dll
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\SmartQuant.FIXData.dll
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHData.pdb
+F:\stock\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.pdb
+F:\stock\HuaQuant\DZHDataProvider\obj\Release\ResolveAssemblyReference.cache
+F:\stock\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.dll
+F:\stock\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.pdb
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.dll
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHDataProvider.pdb
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHData.dll
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.dll
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHDataProvider\bin\Release\HuaDataLib.pdb
+E:\stock\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.dll
+E:\stock\HuaQuant\DZHDataProvider\obj\Release\DZHDataProvider.pdb

@@ -1,0 +1,7 @@
+E:\stock\HuaQuant\DZHMarketProvider\obj\Release\DZHMarketProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHMarketProvider\bin\Release\DZHData.dll
+E:\stock\HuaQuant\DZHMarketProvider\bin\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHMarketProvider\bin\Release\DZHMarketProvider.dll
+E:\stock\HuaQuant\DZHMarketProvider\bin\Release\DZHMarketProvider.pdb
+E:\stock\HuaQuant\DZHMarketProvider\obj\Release\DZHMarketProvider.dll
+E:\stock\HuaQuant\DZHMarketProvider\obj\Release\DZHMarketProvider.pdb

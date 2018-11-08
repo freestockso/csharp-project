@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PlateMonitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cbUpdating" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="tbInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="tbUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tianzhong_live@126.com</Value>
+    </Setting>
+    <Setting Name="tbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chs771005</Value>
+    </Setting>
+    <Setting Name="tbEasyMoneyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\eastmoney\swc8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

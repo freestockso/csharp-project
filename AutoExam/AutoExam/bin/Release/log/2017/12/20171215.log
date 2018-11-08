@@ -1,0 +1,101 @@
+时间：2017-12-15 18:01:20,446 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:01:20,465 级别：INFO  描述：没有发现学生信息输入窗体！
+时间：2017-12-15 18:32:16,303 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:32:16,316 级别：INFO  描述：没有发现学生信息输入窗体！
+时间：2017-12-15 18:33:55,789 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:33:55,803 级别：INFO  描述：没有发现学生信息输入窗体！
+时间：2017-12-15 18:34:18,320 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:34:18,320 级别：INFO  描述：没有发现学生信息输入窗体！
+时间：2017-12-15 18:40:10,424 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:53:08,843 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 18:53:08,872 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 18:54:43,118 级别：ERROR 描述：To get element by By.CssSelector: .sumbit--Timed out after 5 seconds
+时间：2017-12-15 19:00:30,571 级别：ERROR 描述：To get element by By.Id: login_form--Timed out after 15 seconds
+时间：2017-12-15 19:00:30,584 级别：INFO  描述：没有发现登录窗体！
+时间：2017-12-15 19:08:42,893 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:11:32,617 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:11:32,649 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:11:41,665 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:11:41,675 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:11:50,336 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:11:50,354 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:11:59,067 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:11:59,074 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:12:07,715 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:12:07,729 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:12:24,407 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:12:57,044 级别：ERROR 描述：To get element by By.CssSelector: .card-action div.field.right label--Timed out after 5 seconds
+时间：2017-12-15 19:16:37,245 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:19:01,339 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:26:33,428 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:26:51,380 级别：ERROR 描述：To get element by By.CssSelector: .content .description p:nth-child(4) strong--Timed out after 5 seconds
+时间：2017-12-15 19:31:52,299 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:32:16,288 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:32:40,498 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:33:04,874 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:33:29,003 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:33:54,244 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:34:18,386 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:34:42,453 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:35:06,605 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:35:30,770 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:35:56,430 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:36:27,215 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:36:56,477 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:36:56,499 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:01,730 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:01,865 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:10,719 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:10,844 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:19,432 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:19,540 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:28,178 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:28,276 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:36,917 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:37,030 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:45,634 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:45,730 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:46:54,329 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:46:54,457 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:03,064 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:03,180 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:11,807 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:11,937 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:20,557 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:20,681 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:29,268 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:29,422 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:38,001 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:38,095 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:46,711 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:46,835 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:47:55,438 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:47:55,538 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:55:54,794 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:55:54,928 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:03,790 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:03,878 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:12,495 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:12,604 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:21,223 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:21,353 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:29,996 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:30,121 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:38,730 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:38,855 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:47,465 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:47,582 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:56:56,205 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:56:56,342 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:04,970 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:05,108 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:13,739 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:13,865 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:22,481 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:22,615 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:31,370 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:31,475 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:40,145 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:40,257 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！
+时间：2017-12-15 19:57:48,881 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-15 19:57:48,985 级别：INFO  描述：没有发现题目：原因可能是网络慢，数据没有生成！

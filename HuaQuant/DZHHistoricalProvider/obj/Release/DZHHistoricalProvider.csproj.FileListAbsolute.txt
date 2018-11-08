@@ -1,0 +1,12 @@
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\DZHHistoricalProvider.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\DZHHistoricalProvider.pdb
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\DZHData.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\SmartQuant.Data.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\SmartQuant.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\SmartQuant.FIX.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\SmartQuant.Instruments.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\SmartQuant.Providers.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\bin\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHHistoricalProvider\obj\Release\DZHHistoricalProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHHistoricalProvider\obj\Release\DZHHistoricalProvider.dll
+E:\stock\HuaQuant\DZHHistoricalProvider\obj\Release\DZHHistoricalProvider.pdb

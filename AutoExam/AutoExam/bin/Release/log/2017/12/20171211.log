@@ -1,0 +1,7 @@
+时间：2017-12-11 20:32:35,152 级别：ERROR 描述：To get element by By.Id: login-form--Timed out after 15 seconds
+时间：2017-12-11 20:32:35,163 级别：INFO  描述：没有发现登录窗体！
+时间：2017-12-11 20:36:46,265 级别：ERROR 描述：To get element by By.Id: login-form--unknown error: Runtime.evaluate threw exception: TypeError: Cannot read property 'click' of null
+    at <anonymous>:1:49
+  (Session info: chrome=51.0.2704.106)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.3 x86_64)
+时间：2017-12-11 20:36:46,275 级别：INFO  描述：没有发现登录窗体！

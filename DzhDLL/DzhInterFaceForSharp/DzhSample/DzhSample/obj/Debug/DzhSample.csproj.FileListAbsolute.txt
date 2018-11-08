@@ -1,0 +1,7 @@
+E:\stock\Dzh2\DzhSample.dll
+E:\stock\Dzh2\DzhSample.pdb
+E:\stock\DzhDLL\DzhInterFaceForSharp\DzhSample\DzhSample\obj\Debug\DzhSample.Form1.resources
+E:\stock\DzhDLL\DzhInterFaceForSharp\DzhSample\DzhSample\obj\Debug\DzhSample.csproj.GenerateResource.Cache
+E:\stock\DzhDLL\DzhInterFaceForSharp\DzhSample\DzhSample\obj\Debug\DzhSample.dll
+E:\stock\DzhDLL\DzhInterFaceForSharp\DzhSample\DzhSample\obj\Debug\DzhSample.pdb
+E:\stock\DzhDLL\DzhInterFaceForSharp\DzhSample\DzhSample\obj\Debug\DzhSample.csprojResolveAssemblyReference.cache

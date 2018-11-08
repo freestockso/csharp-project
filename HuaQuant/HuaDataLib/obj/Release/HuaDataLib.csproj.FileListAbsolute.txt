@@ -1,0 +1,17 @@
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\bin\Release\SmartQuant.Data.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\obj\Release\ResolveAssemblyReference.cache
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.pdb
+F:\stock\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.dll
+F:\stock\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.pdb
+F:\stock\HuaQuant\HuaDataLib\obj\Release\ResolveAssemblyReference.cache
+F:\stock\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.dll
+F:\stock\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.pdb
+E:\stock\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.dll
+E:\stock\HuaQuant\HuaDataLib\bin\Release\HuaDataLib.pdb
+E:\stock\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.dll
+E:\stock\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.pdb
+E:\stock\HuaQuant\HuaDataLib\obj\Release\HuaDataLib.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\HuaDataLib\bin\Release\SmartQuant.Data.dll

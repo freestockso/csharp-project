@@ -1,0 +1,182 @@
+时间：2015-09-01 17:58:52,026 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 17:58:57,642 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 17:59:03,376 级别：INFO  描述：登录成功.
+时间：2015-09-01 17:59:16,171 级别：ERROR 描述：To get element by By.Id: ext-gen148 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 17:59:21,684 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 17:59:26,824 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 17:59:32,659 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:23:14,376 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:23:20,057 级别：ERROR 描述：To get element by By.Id: ext-gen44--Timed out after 5 seconds
+时间：2015-09-01 18:24:50,190 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:24:55,156 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:00,201 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:05,170 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:10,190 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:15,191 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:20,241 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:25,262 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:30,248 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:35,219 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:40,343 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:45,301 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:50,418 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:25:55,460 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:26:00,473 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:26:05,439 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:26:10,516 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:26:15,568 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:26:20,581 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:26:28,642 级别：ERROR 描述：To get element by By.Id: ext-gen148 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:26:33,806 级别：ERROR 描述：To get element by By.Id: ext-gen181 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:26:39,675 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:26:44,729 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:26:50,500 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:26:56,282 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:32:02,909 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:32:13,002 级别：ERROR 描述：To get element by By.Id: ext-gen148 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:32:18,735 级别：ERROR 描述：To get element by By.Id: ext-gen181 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 18:33:47,891 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:33:52,895 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:33:57,912 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:34:02,933 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:34:07,945 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:34:26,339 级别：ERROR 描述：To get element by By.Id: ext-gen148 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:34:42,089 级别：ERROR 描述：To get element by By.Id: ext-gen181 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:44:27,892 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:44:32,995 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:44:38,532 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:44:43,600 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:44:48,664 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:45:09,154 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:45:24,696 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:45:39,803 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:45:55,556 级别：ERROR 描述：To get element by By.CssSelector: #ext-gen143 div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:46:11,384 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='FundView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:48:58,959 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:49:18,437 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:49:34,206 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:49:49,871 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:50:05,240 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:53:15,062 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:53:20,250 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 18:53:25,447 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:53:45,907 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:54:02,100 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:56:01,505 级别：INFO  描述：登录成功.
+时间：2015-09-01 18:56:20,517 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:56:35,769 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:56:51,805 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:57:06,927 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:57:22,557 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='FundView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 18:57:38,332 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='DrcjView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:01:14,891 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:01:19,929 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:01:25,133 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:01:46,474 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:02:02,272 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:02:18,187 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:02:34,027 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:02:49,057 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='FundView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:03:04,797 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='DrcjView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:03:21,211 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='DrwtView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:03:21,617 级别：ERROR 描述：初始化错误：JavaScript error (UnexpectedJavaScriptError)
+时间：2015-09-01 19:03:38,813 级别：ERROR 描述：To get element by By.CssSelector: #FundView #ext-comp-1418 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:06:09,306 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:06:14,444 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:12:41,762 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:12:46,795 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:13:09,511 级别：ERROR 描述：To get element by By.Id: ext-gen168 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:14:32,745 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:14:37,818 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:14:43,343 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:14:48,450 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:14:53,445 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:14:58,458 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:15:17,810 级别：ERROR 描述：To get element by By.Id: ext-gen168 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:16:07,953 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:16:13,073 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:16:33,472 级别：ERROR 描述：To get element by By.Id: ext-gen168 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:18:10,396 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:19:34,661 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:19:40,051 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:19:45,131 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:19:50,140 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:19:55,282 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:00,335 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:05,333 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:10,398 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:15,381 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:20,422 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:25,466 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:20:30,692 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:22:46,665 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:22:51,764 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:22:56,935 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:23:01,941 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:23:06,979 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:23:29,215 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:23:45,042 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:24:00,948 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:24:16,689 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:24:32,479 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='FundView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:24:47,615 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='DrcjView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:25:02,677 级别：ERROR 描述：To get element by By.CssSelector: div[ext:tree-node-id='DrwtView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 15 seconds
+时间：2015-09-01 19:29:46,044 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:29:51,038 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:30:04,488 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='EntrustbuyView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:09,672 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='EntrustsellView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:15,231 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='EntrustcancelView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:20,437 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='stockquery'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:26,236 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='FundView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:32,005 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='DrcjView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:30:37,827 级别：ERROR 描述：To get element by By.CssSelector: .x-tree-node div[ext:tree-node-id='DrwtView'] under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 19:49:36,962 级别：INFO  描述：登录成功.
+时间：2015-09-01 19:56:31,992 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 19:56:37,132 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:03:44,036 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:03:49,042 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:03:54,147 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:06:15,833 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:20,863 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:26,038 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:31,123 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:36,202 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:41,237 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:06:46,297 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:17:38,781 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:17:43,853 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:17:48,986 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:17:54,023 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:17:59,690 级别：ERROR 描述：To get element by By.Id: ext-gen44--Timed out after 5 seconds
+时间：2015-09-01 20:22:06,980 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:22:13,024 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:22:19,176 级别：ERROR 描述：登录失败,原因是:请输入密码！
+时间：2015-09-01 20:22:59,143 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:23:05,237 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:23:11,268 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:23:17,360 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:25:00,287 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:25:06,296 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:35:58,384 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:36:04,640 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:36:10,911 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:36:17,184 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:38:19,666 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:38:25,906 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:38:32,302 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:38:38,589 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:39:06,166 级别：ERROR 描述：To get element by By.CssSelector: #EntrustbuyView #ext-gen2533 under OpenQA.Selenium.Remote.RemoteWebElement--Timed out after 5 seconds
+时间：2015-09-01 20:40:48,120 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:40:54,454 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:00,756 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:07,152 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:13,549 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:19,757 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:25,982 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:32,378 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-01 20:41:38,601 级别：INFO  描述：登录成功.
+时间：2015-09-01 20:42:14,019 级别：ERROR 描述：To get element by By.CssSelector: #EntrustbuyView #ext-gen2533--Timed out after 15 seconds
+时间：2015-09-01 20:42:14,059 级别：ERROR 描述：To get element by By.Name: stock_code--未将对象引用设置到对象的实例。
+时间：2015-09-01 20:42:14,096 级别：ERROR 描述：To get element by By.Name: stock_price--未将对象引用设置到对象的实例。
+时间：2015-09-01 20:42:14,139 级别：ERROR 描述：To get element by By.Name: stock_amount--未将对象引用设置到对象的实例。
+时间：2015-09-01 20:42:14,181 级别：ERROR 描述：To get element by By.Id: ext-comp-1627--未将对象引用设置到对象的实例。

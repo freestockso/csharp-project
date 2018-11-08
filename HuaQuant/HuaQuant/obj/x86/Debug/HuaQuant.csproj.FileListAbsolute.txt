@@ -1,0 +1,22 @@
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.Form1.resources
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.Properties.Resources.resources
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\bin\Debug\HuaQuant.exe
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\bin\Debug\HuaQuant.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\bin\Debug\DZHData.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\bin\Debug\DZHData.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.exe
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.pdb
+E:\stock\HuaQuant\HuaQuant\bin\Debug\HuaQuant.exe.config
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.exe
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.pdb
+E:\stock\HuaQuant\HuaQuant\bin\Debug\HuaQuant.exe
+E:\stock\HuaQuant\HuaQuant\bin\Debug\HuaQuant.pdb
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.Form1.resources
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.Properties.Resources.resources
+E:\stock\HuaQuant\HuaQuant\obj\x86\Debug\HuaQuant.csproj.GenerateResource.Cache
+E:\stock\HuaQuant\HuaQuant\bin\Debug\DZHData.dll
+E:\stock\HuaQuant\HuaQuant\bin\Debug\DZHData.pdb

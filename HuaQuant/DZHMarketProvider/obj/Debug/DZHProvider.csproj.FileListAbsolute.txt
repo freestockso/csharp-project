@@ -1,0 +1,14 @@
+E:\stock\HuaQuant\DZHDataProvider\bin\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHDataProvider\bin\Debug\DZHData.pdb
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHDataProvider\bin\Debug\DZHProvider.dll
+E:\stock\HuaQuant\DZHDataProvider\bin\Debug\DZHProvider.pdb
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHProvider.dll
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHProvider.pdb
+E:\stock\HuaQuant\DZHProvider\bin\Debug\DZHProvider.dll
+E:\stock\HuaQuant\DZHProvider\bin\Debug\DZHProvider.pdb
+E:\stock\HuaQuant\DZHProvider\bin\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHProvider\bin\Debug\DZHData.pdb
+E:\stock\HuaQuant\DZHProvider\obj\Debug\DZHProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHProvider\obj\Debug\DZHProvider.dll
+E:\stock\HuaQuant\DZHProvider\obj\Debug\DZHProvider.pdb

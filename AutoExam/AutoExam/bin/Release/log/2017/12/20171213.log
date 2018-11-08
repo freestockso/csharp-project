@@ -1,0 +1,8 @@
+时间：2017-12-13 15:41:18,534 级别：ERROR 描述：To get element by By.Id: login-form--Timed out after 15 seconds
+时间：2017-12-13 15:41:18,546 级别：INFO  描述：没有发现登录窗体！
+时间：2017-12-13 15:47:46,823 级别：ERROR 描述：To get element by By.Id: login-form--disconnected: received Inspector.detached event
+  (Session info: chrome=54.0.2800.0)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.3 x86_64) (102)
+时间：2017-12-13 15:47:46,846 级别：INFO  描述：没有发现登录窗体！
+时间：2017-12-13 15:49:14,395 级别：ERROR 描述：To get element by By.Id: id--Timed out after 5 seconds
+时间：2017-12-13 15:49:19,608 级别：ERROR 描述：To get element by By.Id: id-submit--Timed out after 5 seconds

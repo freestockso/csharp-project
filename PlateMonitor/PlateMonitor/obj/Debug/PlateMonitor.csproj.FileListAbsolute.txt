@@ -1,0 +1,10 @@
+E:\Finance\PlateMonitor\PlateMonitor\bin\Debug\PlateMonitor.exe
+E:\Finance\PlateMonitor\PlateMonitor\bin\Debug\PlateMonitor.pdb
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.csprojResolveAssemblyReference.cache
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.Form1.resources
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.Properties.Resources.resources
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.csproj.GenerateResource.Cache
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.exe
+E:\Finance\PlateMonitor\PlateMonitor\obj\Debug\PlateMonitor.pdb
+E:\Finance\PlateMonitor\PlateMonitor\bin\Debug\GMAPI29.dll
+E:\Finance\PlateMonitor\PlateMonitor\bin\Debug\GMAPI29.pdb

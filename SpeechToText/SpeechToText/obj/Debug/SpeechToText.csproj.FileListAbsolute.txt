@@ -1,0 +1,30 @@
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe.config
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\AipSdk.dll
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csprojAssemblyReference.cache
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.Form1.resources
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.Properties.Resources.resources
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.GenerateResource.cache
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.CopyComplete
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.exe
+C:\Users\me\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.pdb
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\NAudio.dll
+C:\Users\me\source\repos\SpeechToText\SpeechToText\bin\Debug\NAudio.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe.config
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\AipSdk.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\NAudio.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\NAudio.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csprojResolveAssemblyReference.cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.Properties.Resources.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.GenerateResource.Cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Debug\SpeechToText.MainForm.resources

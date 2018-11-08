@@ -1,0 +1,7 @@
+时间：2017-04-09 11:01:10,700 级别：ERROR 描述：To get element by By.CssSelector: #loginContainer--Timed out after 5 seconds
+时间：2017-04-09 11:01:10,708 级别：ERROR 描述：To get element by By.CssSelector: div.accountContainer input.userInput--未将对象引用设置到对象的实例。
+时间：2017-04-09 11:01:10,708 级别：ERROR 描述：To get element by By.CssSelector: #pwddiv div.pwdContainer #SecurePassword--未将对象引用设置到对象的实例。
+时间：2017-04-09 11:01:10,708 级别：ERROR 描述：To get element by By.CssSelector: input.verificationCode--未将对象引用设置到对象的实例。
+时间：2017-04-09 11:01:10,708 级别：ERROR 描述：To get element by By.CssSelector: div.verificationCodeImage--未将对象引用设置到对象的实例。
+时间：2017-04-09 11:01:10,708 级别：ERROR 描述：To get element by By.CssSelector: a.login--未将对象引用设置到对象的实例。
+时间：2017-04-09 11:01:10,709 级别：ERROR 描述：To get element by By.CssSelector: p.tip--未将对象引用设置到对象的实例。

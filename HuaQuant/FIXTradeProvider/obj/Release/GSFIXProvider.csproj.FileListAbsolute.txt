@@ -1,0 +1,34 @@
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.FIX.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Providers.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Data.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.FIXData.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\obj\Release\ResolveAssemblyReference.cache
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.pdb
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Instruments.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Charting.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Series.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.File.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Quant.dll
+M:\Users\huasheng\Documents\Visual Studio 2010\Projects\HuaQuant\FIXTradeProvider\bin\Release\SharpZipLib.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.pdb
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Charting.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Series.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Data.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.FIXData.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.File.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SmartQuant.Quant.dll
+F:\stock\HuaQuant\FIXTradeProvider\bin\Release\SharpZipLib.dll
+F:\stock\HuaQuant\FIXTradeProvider\obj\Release\ResolveAssemblyReference.cache
+F:\stock\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.dll
+F:\stock\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.pdb
+E:\stock\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.dll
+E:\stock\HuaQuant\FIXTradeProvider\bin\Release\GSFIXProvider.pdb
+E:\stock\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.dll
+E:\stock\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.pdb
+E:\stock\HuaQuant\FIXTradeProvider\obj\Release\GSFIXProvider.csprojResolveAssemblyReference.cache

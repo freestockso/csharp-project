@@ -1,0 +1,18 @@
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\DZHDataProvider.dll
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\DZHDataProvider.pdb
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\DZHData.dll
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.dll
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.FIXData.dll
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\DZHData.pdb
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Debug\DZHDataProvider.dll
+C:\Users\HuaSheng\Documents\Visual Studio 2010\Projects\HuaQuant\DZHDataProvider\obj\Debug\DZHDataProvider.pdb
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.Instruments.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.Charting.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.Series.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.File.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SmartQuant.Quant.dll
+C:\Users\HuaSheng\documents\visual studio 2010\Projects\HuaQuant\DZHDataProvider\bin\Debug\SharpZipLib.dll
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHDataProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHDataProvider.dll
+E:\stock\HuaQuant\DZHDataProvider\obj\Debug\DZHDataProvider.pdb

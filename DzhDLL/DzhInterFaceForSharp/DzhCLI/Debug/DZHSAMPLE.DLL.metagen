@@ -1,0 +1,219 @@
+  DzhSample.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v2.0.50727
+Assembly DzhSample, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class DzhSample.CDzhSample: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AVERAGEVAR(Int32): PrivateScope, Public, HideBySig
+    AVERAGEDIFFVAR(Int32): PrivateScope, Public, HideBySig
+    MACDVAR(Int32): PrivateScope, Public, HideBySig
+    SHOWFORMVAR(Int32): PrivateScope, Public, HideBySig
+Struct DzhSample.DATA_TYPE: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DzhSample.DATA_TYPE TICK_DATA = 2 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MIN1_DATA = 3 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MIN5_DATA = 4 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MIN15_DATA = 5 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MIN30_DATA = 6 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MIN60_DATA = 7 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE DAY_DATA = 8 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE WEEK_DATA = 9 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MONTH_DATA = 10 : Public, Static, Literal, HasDefault
+    DzhSample.DATA_TYPE MULTI_DATA = 11 : Public, Static, Literal, HasDefault
+Struct DzhSample.STKDATA: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Int32 m_time : Public
+    Single m_fOpen : Public
+    Single m_fHigh : Public
+    Single m_fLow : Public
+    Single m_fClose : Public
+    Single m_fVolume : Public
+    Single m_fAmount : Public
+    UInt16 m_wAdvance : Public
+    UInt16 m_wDecline : Public
+Struct DzhSample.STKDATAEx: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Single m_fBuyPrice1 : Public
+    Single m_fBuyPrice2 : Public
+    Single m_fBuyPrice3 : Public
+    Single m_fBuyPrice4 : Public
+    Single m_fBuyPrice5 : Public
+    Single m_fBuyVol1 : Public
+    Single m_fBuyVol2 : Public
+    Single m_fBuyVol3 : Public
+    Single m_fBuyVol4 : Public
+    Single m_fBuyVol5 : Public
+    Single m_fSellPrice1 : Public
+    Single m_fSellPrice2 : Public
+    Single m_fSellPrice3 : Public
+    Single m_fSellPrice4 : Public
+    Single m_fSellPrice5 : Public
+    Single m_fSellVol1 : Public
+    Single m_fSellVol2 : Public
+    Single m_fSellVol3 : Public
+    Single m_fSellVol4 : Public
+    Single m_fSellVol5 : Public
+Struct DzhSample.CALCINFO_SHARP: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    UInt32 m_dwSize : Public
+    UInt32 m_dwVersion : Public
+    UInt32 m_dwSerial : Public
+    Int32 m_strStkLabel : Public
+    Int32 m_bIndex : Public
+    Int32 m_nNumData : Public
+    Int32 m_pData : Public
+    Int32 m_pDataEx : Public
+    Int32 m_nParam1Start : Public
+    Int32 m_pfParam1 : Public
+    Int32 m_pfParam2 : Public
+    Int32 m_pfParam3 : Public
+    Int32 m_pfParam4 : Public
+    Int32 m_pResultBuf : Public
+    Int32 m_dataType : Public
+    Int32 m_pfFinData : Public
+Struct DzhSample.SHOW_TYPE: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DzhSample.SHOW_TYPE Time = 0 : Public, Static, Literal, HasDefault
+    DzhSample.SHOW_TYPE Tick = 1 : Public, Static, Literal, HasDefault
+    DzhSample.SHOW_TYPE Fin = 2 : Public, Static, Literal, HasDefault
+Class DzhSample.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IsClose(): PrivateScope, Public, HideBySig
+    GetShowType(): PrivateScope, Public, HideBySig
+    IsRefreshData(String, Int32, Int32): PrivateScope, Public, HideBySig
+    RefreshData(Single[]&): PrivateScope, Public, HideBySig
+    RefreshData(STKDATA[]&): PrivateScope, Public, HideBySig
+    RefreshData(STKDATA[]&, STKDATAEx[]&): PrivateScope, Public, HideBySig
+Class DzhSample.ListViewBase: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.ListView
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Create(Int32, Int32, Int32, Int32, Form): PrivateScope, Public, HideBySig
+    Create(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    AddTimeColumn(): PrivateScope, Public, HideBySig
+    AddTickColumn(): PrivateScope, Public, HideBySig
+    AddFinColumn(): PrivateScope, Public, HideBySig
+    OnSize(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    WriteToText(String): PrivateScope, Public, HideBySig
+    RefreshData(Single[]&): PrivateScope, Public, HideBySig
+    RefreshData(STKDATA[]&): PrivateScope, Public, HideBySig
+    RefreshData(STKDATA[]&, STKDATAEx[]&): PrivateScope, Public, HideBySig
+    RefreshData(): PrivateScope, Public, HideBySig
+    AddItem(STKDATA[]&): PrivateScope, Public, HideBySig
+    OnPaint(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class MyTable._Table: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Object Item [Int32, Int32] 'get set' : 
+  Methods:
+    GetValue(Int32, Int32, Decimal&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, DateTime&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Boolean&): PrivateScope, Public, HideBySig
+    GetValueByString(Int32, Int32): PrivateScope, Public, HideBySig
+    GetValueByString(Int32, Int32, String&): PrivateScope, Public, HideBySig
+    GetRow(Int32): PrivateScope, Public, HideBySig
+    GetRow(Int32, String&): PrivateScope, Public, HideBySig
+    GetRow(Int32, Byte[]&): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Object): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Int16): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, UInt16): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, UInt32): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Int64): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, UInt64): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Byte): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, SByte): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, SByte[]&): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Single): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Double): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, String): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Decimal): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, DateTime): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Boolean): PrivateScope, Public, HideBySig
+    SetValue(Int32, Int32, Byte[]&): PrivateScope, Public, HideBySig
+    SetValueByString(Int32, Int32, String): PrivateScope, Public, HideBySig
+    AppendRow(Byte[]&): PrivateScope, Public, HideBySig
+    SetRow(Int32, Byte[]&): PrivateScope, Public, HideBySig
+    Destroy(): PrivateScope, Public, HideBySig
+    get_Item(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName
+    set_Item(Int32, Int32, Object): PrivateScope, Public, HideBySig, SpecialName
+    GetErrorInfo(): PrivateScope, Public, HideBySig
+    SetErrorInfo(String): PrivateScope, Public, HideBySig
+    GetID(): PrivateScope, Public, HideBySig
+    GetColCount(): PrivateScope, Public, HideBySig
+    GetColType(Int32): PrivateScope, Public, HideBySig
+    GetColTypeInt(Int32): PrivateScope, Public, HideBySig
+    GetColName(Int32): PrivateScope, Public, HideBySig
+    GetColOffset(Int32): PrivateScope, Public, HideBySig
+    GetColSize(Int32): PrivateScope, Public, HideBySig
+    GetColPrecision(Int32): PrivateScope, Public, HideBySig
+    SetColPrecision(Int32, Int32): PrivateScope, Public, HideBySig
+    GetRowCount(): PrivateScope, Public, HideBySig
+    GetBytesPerRow(): PrivateScope, Public, HideBySig
+    GetTableName(): PrivateScope, Public, HideBySig
+    CopyToTable(_Table&): PrivateScope, Public, HideBySig
+    AppendToTable(_Table&): PrivateScope, Public, HideBySig
+    CopyColumnToTable(_Table&): PrivateScope, Public, HideBySig
+    CopyFromTable(_Table&): PrivateScope, Public, HideBySig
+    AppendFromTable(_Table&): PrivateScope, Public, HideBySig
+    CopyColumnFromTable(_Table&): PrivateScope, Public, HideBySig
+    AddCol(String, Type, Int32): PrivateScope, Public, HideBySig
+    DeleteCol(String): PrivateScope, Public, HideBySig
+    DeleteCol(Int32): PrivateScope, Public, HideBySig
+    ClearCol(): PrivateScope, Public, HideBySig
+    AddRow(): PrivateScope, Public, HideBySig
+    AddRow(Int32): PrivateScope, Public, HideBySig
+    AddRow(Int32, Int32): PrivateScope, Public, HideBySig
+    DeleteRow(Int32): PrivateScope, Public, HideBySig
+    DeleteRow(Int32, Int32): PrivateScope, Public, HideBySig
+    ClearRow(): PrivateScope, Public, HideBySig
+    ExchangeRow(Int32, Int32): PrivateScope, Public, HideBySig
+    IsExist(Int32, String): PrivateScope, Public, HideBySig
+    IsExist(Int32, Int32): PrivateScope, Public, HideBySig
+    IsExist(Int32, Int64): PrivateScope, Public, HideBySig
+    IsExist(Int32, Int32, String): PrivateScope, Public, HideBySig
+    IsExist(Int32, Int32, Byte[]&): PrivateScope, Public, HideBySig
+    Query(Int32, String, _Table&): PrivateScope, Public, HideBySig
+    Query(Int32, Int32, _Table&): PrivateScope, Public, HideBySig
+    Query(Int32, Byte[]&, _Table&): PrivateScope, Public, HideBySig
+    WriteToBinary(String): PrivateScope, Public, HideBySig
+    WriteToBinary(String, Boolean): PrivateScope, Public, HideBySig
+    WriteToText(): PrivateScope, Public, HideBySig
+    WriteToText(String): PrivateScope, Public, HideBySig
+    WriteToText(String, Int32, Boolean): PrivateScope, Public, HideBySig
+    ReadFromBinary(String): PrivateScope, Public, HideBySig
+    Sort(Int32, Int32): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Byte[]&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Int16&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, UInt16&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Int32&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, UInt32&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Int64&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, UInt64&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Single&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Double&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, Byte&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, SByte&): PrivateScope, Public, HideBySig
+    GetValue(Int32, Int32, String&): PrivateScope, Public, HideBySig

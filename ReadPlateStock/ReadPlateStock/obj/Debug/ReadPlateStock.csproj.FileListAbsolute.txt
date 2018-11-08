@@ -1,0 +1,12 @@
+c:\users\chs\documents\visual studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\ReadPlateStock.exe.config
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\ReadPlateStock.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\ReadPlateStock.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\obj\Debug\ReadPlateStock.csprojResolveAssemblyReference.cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\obj\Debug\ReadPlateStock.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\obj\Debug\ReadPlateStock.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Bson.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Driver.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Bson.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Bson.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Driver.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\ReadPlateStock\ReadPlateStock\bin\Debug\MongoDB.Driver.xml

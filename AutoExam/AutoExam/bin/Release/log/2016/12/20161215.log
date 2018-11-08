@@ -1,0 +1,9 @@
+
+时间：2016-12-15 20:42:32,012 级别：INFO  描述：waitting for pageload:2016/12/15 星期四 20:42:31
+时间：2016-12-15 20:42:32,068 级别：INFO  描述：pageloaded:2016/12/15 星期四 20:42:32
+时间：2016-12-15 20:42:47,508 级别：ERROR 描述：To get element by By.Id: body-height--Timed out after 15 seconds
+时间：2016-12-15 20:43:49,440 级别：INFO  描述：waitting for pageload:2016/12/15 星期四 20:43:49
+时间：2016-12-15 20:59:24,087 级别：INFO  描述：waitting for pageload:2016/12/15 星期四 20:59:24
+时间：2016-12-15 20:59:24,111 级别：INFO  描述：pageloaded:2016/12/15 星期四 20:59:24
+时间：2016-12-15 21:03:18,558 级别：INFO  描述：waitting for pageload:2016/12/15 星期四 21:03:18
+时间：2016-12-15 21:03:18,583 级别：INFO  描述：pageloaded:2016/12/15 星期四 21:03:18

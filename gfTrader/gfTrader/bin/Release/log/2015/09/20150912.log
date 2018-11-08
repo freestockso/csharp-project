@@ -1,0 +1,12 @@
+时间：2015-09-12 10:36:04,810 级别：INFO  描述：登录成功.
+时间：2015-09-12 10:36:10,582 级别：ERROR 描述：To get element by By.Id: ext-gen44--Timed out after 5 seconds
+时间：2015-09-12 10:36:10,629 级别：ERROR 描述：To get element by By.Id: ext-gen3--未将对象引用设置到对象的实例。
+时间：2015-09-12 10:36:10,660 级别：ERROR 描述：To get element by By.Id: ext-gen5--未将对象引用设置到对象的实例。
+时间：2015-09-12 10:36:10,707 级别：ERROR 描述：To get element by By.Id: ext-gen6--未将对象引用设置到对象的实例。
+时间：2015-09-12 10:36:10,754 级别：ERROR 描述：To get element by By.Id: ext-gen4--未将对象引用设置到对象的实例。
+时间：2015-09-12 10:36:16,432 级别：ERROR 描述：To get element by By.ClassName[Contains]: x-window--Timed out after 5 seconds
+时间：2015-09-12 10:37:42,265 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-12 10:37:48,646 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-12 10:37:55,104 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-12 10:38:01,578 级别：ERROR 描述：登录失败,原因是:验证码输入不正确!
+时间：2015-09-12 10:38:07,896 级别：ERROR 描述：登录失败,原因是:[120047][系统测试中，暂停登陆] [p_fund_account=20615111]

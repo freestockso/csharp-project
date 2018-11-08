@@ -1,0 +1,13 @@
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\SpeechToText.exe.config
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\SpeechToText.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\SpeechToText.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\AipSdk.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\NAudio.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\Newtonsoft.Json.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\NAudio.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\bin\Release\Newtonsoft.Json.xml
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Release\SpeechToText.MainForm.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Release\SpeechToText.Properties.Resources.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Release\SpeechToText.csproj.GenerateResource.Cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Release\SpeechToText.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SpeechToText\SpeechToText\obj\Release\SpeechToText.pdb

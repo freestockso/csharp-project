@@ -1,0 +1,6 @@
+时间：2017-12-14 10:14:53,995 级别：ERROR 描述：To get element by By.Id: classname-id--Timed out after 5 seconds
+时间：2017-12-14 10:42:12,910 级别：ERROR 描述：To get element by By.CssSelector: div.sumbit--Timed out after 5 seconds
+时间：2017-12-14 10:43:40,352 级别：ERROR 描述：To get element by By.CssSelector: button.sumbit--Timed out after 5 seconds
+时间：2017-12-14 10:47:05,374 级别：ERROR 描述：To get element by By.CssSelector: button.sumbit--Timed out after 5 seconds
+时间：2017-12-14 10:48:37,133 级别：ERROR 描述：To get element by By.Id: profile_form--Timed out after 5 seconds
+时间：2017-12-14 10:48:37,144 级别：INFO  描述：没有发现学生信息输入窗体！

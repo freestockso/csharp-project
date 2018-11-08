@@ -1,0 +1,10 @@
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Release\SalaryAccounting.exe.config
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Release\SalaryAccounting.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Release\SalaryAccounting.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.csprojResolveAssemblyReference.cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.Form1.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.Properties.Resources.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.csproj.GenerateResource.Cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.exe
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Release\SalaryAccounting.csproj.ResolveComReference.cache

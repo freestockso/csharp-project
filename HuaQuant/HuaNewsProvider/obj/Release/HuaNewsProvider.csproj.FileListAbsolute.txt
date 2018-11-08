@@ -1,0 +1,9 @@
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\HuaNewsProvider.dll
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\HuaNewsProvider.pdb
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\SmartQuant.dll
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\SmartQuant.FIX.dll
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\SmartQuant.Providers.dll
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\SmartQuant.Data.dll
+E:\stock\HuaQuant\HuaNewsProvider\bin\Release\SmartQuant.FIXData.dll
+E:\stock\HuaQuant\HuaNewsProvider\obj\Release\HuaNewsProvider.dll
+E:\stock\HuaQuant\HuaNewsProvider\obj\Release\HuaNewsProvider.pdb

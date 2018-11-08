@@ -1,0 +1,30 @@
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\gfTrader.exe.config
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\GFTrader.exe
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\GFTrader.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\log4net.dll
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\ThoughtWorks.Selenium.Core.dll
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.dll
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.Support.dll
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\ThoughtWorks.Selenium.Core.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.Support.pdb
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\bin\Debug\WebDriver.Support.xml
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Debug\GFTrader.csprojResolveAssemblyReference.cache
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Debug\GFTrader.exe
+d:\users\administrator\documents\visual studio 2012\Projects\gfTrader\gfTrader\obj\Debug\GFTrader.pdb
+E:\stock\gfTrader\gfTrader\bin\Debug\GFTrader.exe.config
+E:\stock\gfTrader\gfTrader\obj\Debug\GFTrader.exe
+E:\stock\gfTrader\gfTrader\obj\Debug\GFTrader.pdb
+E:\stock\gfTrader\gfTrader\bin\Debug\GFTrader.exe
+E:\stock\gfTrader\gfTrader\bin\Debug\GFTrader.pdb
+E:\stock\gfTrader\gfTrader\bin\Debug\log4net.dll
+E:\stock\gfTrader\gfTrader\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\stock\gfTrader\gfTrader\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\stock\gfTrader\gfTrader\bin\Debug\WebDriver.dll
+E:\stock\gfTrader\gfTrader\bin\Debug\WebDriver.Support.dll
+E:\stock\gfTrader\gfTrader\obj\Debug\GFTrader.csprojResolveAssemblyReference.cache

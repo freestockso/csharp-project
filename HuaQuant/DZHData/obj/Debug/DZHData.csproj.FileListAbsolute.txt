@@ -1,0 +1,8 @@
+E:\stock\HuaQuant\DZHData2\bin\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHData2\bin\Debug\DZHData.pdb
+E:\stock\HuaQuant\DZHData2\obj\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHData2\obj\Debug\DZHData.pdb
+E:\stock\HuaQuant\DZHData\bin\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHData\bin\Debug\DZHData.pdb
+E:\stock\HuaQuant\DZHData\obj\Debug\DZHData.dll
+E:\stock\HuaQuant\DZHData\obj\Debug\DZHData.pdb

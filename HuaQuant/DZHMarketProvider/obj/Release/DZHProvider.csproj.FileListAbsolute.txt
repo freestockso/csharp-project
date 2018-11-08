@@ -1,0 +1,7 @@
+E:\stock\HuaQuant\DZHProvider\bin\Release\DZHProvider.dll
+E:\stock\HuaQuant\DZHProvider\bin\Release\DZHProvider.pdb
+E:\stock\HuaQuant\DZHProvider\bin\Release\DZHData.dll
+E:\stock\HuaQuant\DZHProvider\bin\Release\DZHData.pdb
+E:\stock\HuaQuant\DZHProvider\obj\Release\DZHProvider.csprojResolveAssemblyReference.cache
+E:\stock\HuaQuant\DZHProvider\obj\Release\DZHProvider.dll
+E:\stock\HuaQuant\DZHProvider\obj\Release\DZHProvider.pdb

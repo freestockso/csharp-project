@@ -1,0 +1,9 @@
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Debug\SalaryAccounting.exe.config
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Debug\SalaryAccounting.exe
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\bin\Debug\SalaryAccounting.pdb
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.csprojResolveAssemblyReference.cache
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.Form1.resources
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.Properties.Resources.resources
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.csproj.GenerateResource.Cache
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.exe
+c:\users\chs\documents\visual studio 2015\Projects\SalaryAccounting\SalaryAccounting\obj\Debug\SalaryAccounting.pdb
